@@ -1,4 +1,4 @@
-package operators;
+package ex_04_operators;
 
 public class SDET062_UnaryOperatorDemo {
 public static void main(String[] args) {

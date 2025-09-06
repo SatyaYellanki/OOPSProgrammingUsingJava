@@ -1,4 +1,4 @@
-package operators;
+package ex_04_operators;
 
 /**
  * This class demonstrates the core functionality of the 'new' and 'instanceof'

@@ -1,4 +1,4 @@
-package operators;
+package ex_04_operators;
 
 /**
  * Headline: Data Type Compatibility with Operators Demo

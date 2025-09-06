@@ -1,5 +1,5 @@
 
-package operators;
+package ex_04_operators;
 
 public class SDET056_OperatorsBasics {
 

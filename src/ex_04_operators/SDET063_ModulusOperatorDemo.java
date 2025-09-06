@@ -1,4 +1,4 @@
-package operators;
+package ex_04_operators;
 
 /**
  * Demonstrates the practical application of the modulus operator (%) for

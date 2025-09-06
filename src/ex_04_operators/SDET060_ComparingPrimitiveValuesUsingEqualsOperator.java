@@ -1,4 +1,4 @@
-package operators;
+package ex_04_operators;
 
 public class SDET060_ComparingPrimitiveValuesUsingEqualsOperator {
 public static void main(String[] args) {
