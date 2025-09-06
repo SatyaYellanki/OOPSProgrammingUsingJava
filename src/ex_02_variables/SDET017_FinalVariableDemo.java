@@ -19,6 +19,13 @@ public class SDET017_FinalVariableDemo {
 		System.out.println("Maximum allowed users: " + obj.MAX_USERS);
 
 		// obj.MAX_USERS = 200; //Compile time error : Cannot assign a value to final variable
+		
+		
+		  final float pi = 3.145f;
+	        final int pi_int = 19;
+//	        pi_int = 89;
+//	        pi = 10.89f;
+	        System.out.println(pi);
 
 	}
 }

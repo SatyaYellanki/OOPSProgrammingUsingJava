@@ -9,6 +9,7 @@ package ex_02_variables;
  * <ul>
  *   <li>They cannot be a Java keyword (e.g., <code>enum</code>).</li>
  *   <li>They cannot contain spaces.</li>
+ *   It is case-sensitive  AND It has no length restrictions 
  *   <li>They can start with a letter, underscore (<code>_</code>), or dollar sign (<code>$</code>).</li>
  *   <li>They can contain digits, but not as the first character.</li>
  *   <li>Underscore (<code>_</code>) and dollar sign (<code>$</code>) are technically allowed, 
@@ -27,10 +28,15 @@ public class SDET039_VariableNaming {
     	int Enum = 9;
         System.out.println(Enum);
 
+        int _a = 75; 
         int a_b = 89;          // valid identifier using underscore
         // int satya yellanki = 89; //  space not allowed in identifiers
+        //int 123var =1;
+        //+int Var-1=1;
+        
         int satya$yellanki = 90; // valid, but discouraged ($ symbol)
         int Sdet039 = 123;      //  valid, digits allowed if not at the start
+        int $myvariable = 22;
 
         System.out.println(a_b);
         System.out.println(satya$yellanki);
